@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MUHAMMADDIN
+👋 Hi, I’m @MUHAMMADDIN
 - 👀I have done my graduation degree in Computer System Engineering in 2022
 - I stared my coding career from 2019 
 - I landed my first job as A Backend Developer at impros.io (https://impros.io/) in 2021
@@ -20,6 +20,11 @@ App Development:
 
 Devops:
 - Docker, aws(ec2 and s3), Jenkins, git
+
+My linkedIn: https://www.linkedin.com/in/muhammaddin786/
+My portifolio: https://muhammad-din.vercel.app/
+
+You can contact me at mdin.bees19@iba-suk.edu.pk
 <!---
 MUHAMMADDIN786/MUHAMMADDIN786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
