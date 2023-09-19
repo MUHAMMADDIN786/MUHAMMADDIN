@@ -6,20 +6,64 @@
 - Currenlty I am working at Fastech Systems as a full Stack Developer 
 - 🌱 I’m currently working on java, springboot, microservices, kafka,Eureka Client ...
 
-Frontend Technologies:
-- html/css and JavaScript Es6, Reacts js, Next js
-
-Backend Technologies:
-- Java Springboot, Node js, Express js,
-
-Databases:
-- MYSQL, Postgresql, MongoDB
-
-App Development:
-- Flutter, dart
-
-Devops:
-- Docker, aws(ec2 and s3), Jenkins, git
+# My Technology Stack:
+* 👉   Spring (Java)
+        Spring Framework(Java)
+        Spring boot Microservices
+        Hysterics Cloud Services
+        Apache Kafka
+        API Gateway
+        Load Balancers
+        SOAP-based Web Services
+        Spring Core MVC
+        Aspect Oriented Programming
+        Spring Security 
+        Centralized Logging System
+        Swagger
+        Thymeleaf based Server Side Applications
+        JSP based server side spring boot application
+👉	Blockchain
+        Ethereum Smart Contract Developer
+        IPFS
+        Sanity
+        Solidity
+        Opensea Marketplace NFT Minting
+        Standard ERC-721 for NFT
+        DAPs development with React Js and Next.js with ETH and other currencies 
+👉	Front End
+        HTML5
+        CSS ======> SASS Framework
+        Bootstrap 5
+        Javascript
+            React.Js with Redux
+                Next.Js framework for Server Side Enterprise Application Development
+👉  Mobile
+        Flutter
+👇 Tools:
+👉	JDK 1.8, 11, 17, 18
+👉	Databases
+        * MySQL Community Server
+        * PostgreSQL Server
+        * SQL Server
+        * MongoDB Server for NoSQL Document-based Projects
+        * PhpMyAdmin
+👉  Version Control
+        Github
+        Bitbucket
+        Jira for Software Project Management
+👉  Development IDEs
+        JetBrains IntelliJ Idea (Community Edition)
+        Netbeans
+        Visual Studio Code
+        Eclipse 
+👉  APIs Testing Tools
+        Postman Client
+        Swagger
+👉 Database Designing
+        Figma
+        Create
+        UML
+             Usecase, Class Diagrams, Entity Diagrams, Sequence Diagrams
 
 My linkedIn: https://www.linkedin.com/in/muhammaddin786/
 My portifolio: https://muhammad-din.vercel.app/
