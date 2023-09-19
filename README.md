@@ -8,9 +8,9 @@
 
 # My Technology Stack:
 👉   Spring (Java)
-        Spring Framework(Java)
-        Spring boot Microservices
-        Hysterics Cloud Services
+       - Spring Framework(Java)
+       - Spring boot Microservices
+       - Hysterics Cloud Services
         Apache Kafka
         API Gateway
         Load Balancers
