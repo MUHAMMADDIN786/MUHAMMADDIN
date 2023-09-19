@@ -7,6 +7,7 @@
 - 🌱 I’m currently working on java, springboot, microservices, kafka,Eureka Client ...
 
 # My Technology Stack:
+👉   ## Backend
           Spring (Java)
           Spring Framework(Java)
           Spring boot Microservices
@@ -22,25 +23,19 @@
           Swagger
           Thymeleaf based Server Side Applications
           JSP based server side spring boot application
-👉	Blockchain
-        Ethereum Smart Contract Developer
-        IPFS
-        Sanity
-        Solidity
-        Opensea Marketplace NFT Minting
-        Standard ERC-721 for NFT
-        DAPs development with React Js and Next.js with ETH and other currencies 
-👉	Front End
-        HTML5
-        CSS ======> SASS Framework
-        Bootstrap 5
-        Javascript
-            React.Js with Redux
-                Next.Js framework for Server Side Enterprise Application Development
+          
+👉  ## Front End
+          HTML5
+          CSS > SASS Framework
+          Bootstrap 5
+          Javascript
+          React.Js with Context
+          Next.Js framework for Server Side Enterprise Application Development
+          
 👉  Mobile
-        Flutter
+          Flutter
 👇 Tools:
-👉	JDK 1.8, 11, 17, 18
+👉	JDK 1.8, 11, 17, 18 ,19
 👉	Databases
         * MySQL Community Server
         * PostgreSQL Server
@@ -50,7 +45,6 @@
 👉  Version Control
         Github
         Bitbucket
-        Jira for Software Project Management
 👉  Development IDEs
         JetBrains IntelliJ Idea (Community Edition)
         Netbeans
@@ -64,6 +58,7 @@
         Create
         UML
              Usecase, Class Diagrams, Entity Diagrams, Sequence Diagrams
+             
 
 My linkedIn: https://www.linkedin.com/in/muhammaddin786/
 My portifolio: https://muhammad-din.vercel.app/
