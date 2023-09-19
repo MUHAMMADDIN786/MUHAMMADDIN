@@ -7,7 +7,7 @@
 - 🌱 I’m currently working on java, springboot, microservices, kafka,Eureka Client ...
 
 # My Technology Stack:
-* 👉   Spring (Java)
+👉   Spring (Java)
         Spring Framework(Java)
         Spring boot Microservices
         Hysterics Cloud Services
