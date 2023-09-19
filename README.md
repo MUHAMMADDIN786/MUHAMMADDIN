@@ -7,7 +7,7 @@
 - 🌱 I’m currently working on java, springboot, microservices, kafka,Eureka Client ...
 
 # My Technology Stack:
-👉   ## Backend
+##    Backend
           Spring (Java)
           Spring Framework(Java)
           Spring boot Microservices
@@ -24,7 +24,7 @@
           Thymeleaf based Server Side Applications
           JSP based server side spring boot application
           
-👉  ## Front End
+##   Front End
           HTML5
           CSS > SASS Framework
           Bootstrap 5
@@ -32,28 +32,28 @@
           React.Js with Context
           Next.Js framework for Server Side Enterprise Application Development
           
-👉  Mobile
+##   Mobile
           Flutter
-👇 Tools:
-👉	JDK 1.8, 11, 17, 18 ,19
-👉	Databases
+##  JDK:
+	JDK 1.8, 11, 17, 18 ,19
+ ## Databases
         * MySQL Community Server
         * PostgreSQL Server
         * SQL Server
         * MongoDB Server for NoSQL Document-based Projects
         * PhpMyAdmin
-👉  Version Control
+##  Version Control
         Github
         Bitbucket
-👉  Development IDEs
+##  Development IDEs
         JetBrains IntelliJ Idea (Community Edition)
         Netbeans
         Visual Studio Code
         Eclipse 
-👉  APIs Testing Tools
+##  APIs Testing Tools
         Postman Client
         Swagger
-👉 Database Designing
+## Database Designing
         Figma
         Create
         UML
