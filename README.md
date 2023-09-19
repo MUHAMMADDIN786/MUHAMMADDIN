@@ -7,21 +7,21 @@
 - 🌱 I’m currently working on java, springboot, microservices, kafka,Eureka Client ...
 
 # My Technology Stack:
-👉   Spring (Java)
-       - Spring Framework(Java)
-       - Spring boot Microservices
-       - Hysterics Cloud Services
-        Apache Kafka
-        API Gateway
-        Load Balancers
-        SOAP-based Web Services
-        Spring Core MVC
-        Aspect Oriented Programming
-        Spring Security 
-        Centralized Logging System
-        Swagger
-        Thymeleaf based Server Side Applications
-        JSP based server side spring boot application
+          Spring (Java)
+          Spring Framework(Java)
+          Spring boot Microservices
+          Hysterics Cloud Services
+          Apache Kafka
+          API Gateway
+          Load Balancers
+          SOAP-based Web Services
+          Spring Core MVC
+          Aspect Oriented Programming
+          Spring Security 
+          Centralized Logging System
+          Swagger
+          Thymeleaf based Server Side Applications
+          JSP based server side spring boot application
 👉	Blockchain
         Ethereum Smart Contract Developer
         IPFS
