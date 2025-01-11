@@ -8,6 +8,7 @@
 
 # My Technology Stack:
 ##    Backend
+	  Node (express)
           Spring (Java)
           Spring Framework(Java)
           Spring boot Microservices
@@ -32,8 +33,6 @@
           React.Js with Context
           Next.Js framework for Server Side Enterprise Application Development
           
-##   Mobile
-          Flutter
 ##  JDK:
 	JDK 1.8, 11, 17, 18 ,19
  ## Databases
@@ -42,6 +41,9 @@
         * SQL Server
         * MongoDB Server for NoSQL Document-based Projects
         * PhpMyAdmin
+ ## Vector Databases
+        * pinecone
+        * chromadb
 ##  Version Control
         Github
         Bitbucket
